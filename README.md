@@ -1,5 +1,5 @@
 # hello_world
-I am beginning Github!
+This is my first GitHub respository!
 
-Yeah, I thought I can code too!
-It's funny how I think I can code when I really can't XD
+And I try to use it to learn about github, all about repositories, pull requests, merging code!
+Wish me luck :)
